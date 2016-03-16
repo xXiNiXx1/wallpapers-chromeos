@@ -1,7 +1,3 @@
-<style>
-img { max-width: 100%; border: solid 6px #333; }
-
-</style>
 # Abstract Google Chrome OS wallpapers
 
 |                              |                                |
